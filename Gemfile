@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem "boxing", "~> 0.10.0"
 
 gem "rack", "~> 3.0"
+
+gem "rackup", "~> 2.1"

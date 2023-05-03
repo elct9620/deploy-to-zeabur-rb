@@ -5,7 +5,11 @@ GEM
       bundler (~> 2.0)
       thor (~> 1.0)
     rack (3.0.7)
+    rackup (2.1.0)
+      rack (>= 3)
+      webrick (~> 1.8)
     thor (1.2.1)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-22
@@ -14,6 +18,7 @@ PLATFORMS
 DEPENDENCIES
   boxing (~> 0.10.0)
   rack (~> 3.0)
+  rackup (~> 2.1)
 
 BUNDLED WITH
    2.4.10
