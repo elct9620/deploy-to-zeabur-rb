@@ -9,6 +9,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-22
+  x86_64-linux-musl
 
 DEPENDENCIES
   boxing (~> 0.10.0)
